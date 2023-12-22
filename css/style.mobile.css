@@ -1,0 +1,39 @@
+.header nav h1 {
+  float: none;
+  text-align: center;
+
+}
+
+.header nav ul {
+  float: none;
+
+}
+
+.header nav ul li {
+  float: none;
+
+}
+
+.header nav ul li a {
+  padding: 10px;
+  text-align: center;
+}
+.vp-content {
+  
+  padding-top: 50px;
+
+}
+.vp-content h1 {
+  font-size: 2rem;
+
+}
+.feature {
+  float: none;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+.contact {
+  padding: 50px 0px 0px 0px;
+  min-height: 100vh;
+  
+}
